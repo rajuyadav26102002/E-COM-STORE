@@ -1,6 +1,6 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-## Live - https://e-com-store-y4fj.onrender.com/
+## Live - https://e-com-store-r4r4.onrender.com/cart
 
 ## About This Project:
 
